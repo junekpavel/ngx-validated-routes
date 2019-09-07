@@ -1,0 +1,19 @@
+{
+  "name": "ngx-validated-routes",
+  "version": "1.0.0",
+  "description": "Library for validating Angular Route parameters",
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junekpavel/ngx-validated-routes"
+  },
+  "author": "Pavel Junek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junekpavel/ngx-validated-routes/issues"
+  },
+  "homepage": "https://github.com/junekpavel/ngx-validated-routes#readme"
+}
