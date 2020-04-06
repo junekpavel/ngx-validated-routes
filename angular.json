@@ -15,7 +15,12 @@
             "tsConfig": "projects/ngx-validated-routes/tsconfig.lib.json",
             "project": "projects/ngx-validated-routes/ng-package.json"
           }
-        },
+        ,          "configurations": {
+            "production": {
+              "tsConfig": "projects/ngx-validated-routes/tsconfig.lib.prod.json"
+            }
+          }
+},
         "test": {
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
