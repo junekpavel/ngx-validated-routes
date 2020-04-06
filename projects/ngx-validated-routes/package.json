@@ -1,6 +1,6 @@
 {
   "name": "ngx-validated-routes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for validating Angular Route parameters",
   "peerDependencies": {
     "@angular/common": "^8.0.3",
